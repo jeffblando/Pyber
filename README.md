@@ -1,7 +1,7 @@
 # Pyber
-### Overview of the school district analysis
+### Overview of the Ride-sharing Data Analysis
 
-The purpose of this analysis was to provide detailed information about how a rideshare app is used by the population as a means to develop new business plans to implement changes for new growth opportunities.
+The purpose of this analysis was to provide detailed information about how a ride-share app is used by the population as a means to develop new business plans to implement changes for new growth opportunities.
 
 
 ### Results
