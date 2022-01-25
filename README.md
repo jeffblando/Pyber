@@ -1,14 +1,43 @@
 # Pyber
 ### Overview of the school district analysis
 
-The purpose of this analysis was to provide detailed information 
+The purpose of this analysis was to provide detailed information about how a rideshare app is used by the population as a means to develop new business plans to implement changes for new growth opportunities.
 
 
 ### Results
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. 
+There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the 
+- total rides
+  - Rural
+  - Suburban
+  - Urban   
+
+- total drivers
+  - Rural
+  - Suburban
+  - Urban 
+
+- total fares
+  - Rural
+  - Suburban
+  - Urban 
+
+- average fare per ride 
+  - Rural
+  - Suburban
+  - Urban 
+
+- average fare per driver
+  - Rural
+  - Suburban
+  - Urban 
+  
+- total fare by city type 
+  - Rural
+  - Suburban
+  - Urban 
 
   
-![distric summary new](Resources/district_summary_new.png)
+![Data summary](Resources/summary.png)
   
 
 ### Summary
