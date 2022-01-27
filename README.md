@@ -37,7 +37,8 @@ There is a description of the differences in ride-sharing data among the differe
   - Urban 
 
   
-![Data summary](analysis/PyBer_fare_summary.png)
+![Data line graph](analysis/PyBer_fare_summary.png)
+![Data summary](analysis/challenge_fig.png)
   
 
 ### Summary
